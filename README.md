@@ -2,7 +2,7 @@
 <h3 align="center">I'm a MERN Stack Developer || ReactJS || NodeJS || JavaScript || MongoDB!!</h3>
 
 
-Quick Information ABout Me:
+Quick Information About Me:
 
 - 💡 I’m currently learning JavaScript & React.
 - 👯 I’m looking to collaborate with other web learner
