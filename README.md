@@ -17,7 +17,6 @@ Quick Information About Me:
 <a href="https://linkedin.com/in/md-awlad-675037211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-awlad-675037211" height="30" width="40" /></a>
 <a href="https://fb.com/awladul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awladul" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammad_awlad_909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammad_awlad_909" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/learn with awlad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn with awlad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
